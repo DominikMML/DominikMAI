@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dominik Mielczarek</h1>
 <h3 align="center">Machine Learning Engineer from Poland</h3>
 
-- 🌱 I’m currently learning **Pytorch**
-
 - 📝 I regularly write articles on [https://www.researchgate.net/profile/Dominik-Mielczarek-2](https://www.researchgate.net/profile/Dominik-Mielczarek-2)
 
 - 📫 How to reach me **dominik.mielczarek3@gmail.com**
